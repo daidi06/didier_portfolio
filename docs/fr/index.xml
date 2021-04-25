@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ingénieur Machine Learning on Didier Ilboudo</title>
+    <link>https://daidi06.github.io/didier_portfolio/fr/</link>
+    <description>Recent content in Ingénieur Machine Learning on Didier Ilboudo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Apr 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://daidi06.github.io/didier_portfolio/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet 6: Titanic - machine learning à partir d&#39;un désastre</title>
+      <link>https://daidi06.github.io/didier_portfolio/fr/post/project-6/</link>
+      <pubDate>Sun, 14 Mar 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/fr/post/project-6/</guid>
+      <description>Dans ce projet, nous allons participer à une compétition sur Kaggle. Nous allons suivre l&amp;rsquo;ensemble du processus de création d&amp;rsquo;une application de machine learning sur le célèbre jeu de données Titanic. Le jeu de données utilisé pour cette application provient de Kaggle. Nous comparons 9 algorithmes d&amp;rsquo;apprentissage automatique pour obtenir le meilleur modèle de prédiction.
+  </description>
+    </item>
+    
+    <item>
+      <title>Projet 5: Classez des images à l&#39;aide d&#39;algorithmes de Deep Learning</title>
+      <link>https://daidi06.github.io/didier_portfolio/fr/post/project-5/</link>
+      <pubDate>Tue, 13 Oct 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/fr/post/project-5/</guid>
+      <description>Nous construisons une application permettant de classer la race d&amp;rsquo;un chien en regardant simplement son image. Nous évaluerons la précision que notre modèle pourrait atteindre. Avec les nouvelles techniques du machine learning comme TensorFlow et les modèles pré-entraînés pour la reconnaissance d&amp;rsquo;images, la tâche pourrait être résolue avec une assez bonne précision sans déployer trop d&amp;rsquo;efforts et dépenser trop de temps et de ressources. Dans ce projet, nous allons parcourir de bout en bout la construction d&amp;rsquo;une application de classification de race de chien en utilisant TensorFlow.</description>
+    </item>
+    
+    <item>
+      <title>Projet 2: Anticipez les besoins en consommation électrique de bâtiments</title>
+      <link>https://daidi06.github.io/didier_portfolio/fr/post/project-2/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/fr/post/project-2/</guid>
+      <description>Nous mettons en œuvre des modèles linéaires, des modèles non linéaires et l&amp;rsquo;apprentissage d&amp;rsquo;ensemble afin de determiner le meilleur modèle pour notre application de machine learning. Nous procédons au nettoyage des données, aux features engineering et à la modélisation des données. Le jeu de données utilisé pour cette application provient de City of seattle building energy benchmarking.
+  </description>
+    </item>
+    
+    <item>
+      <title>Projet 4: Catégorisez automatiquement des questions</title>
+      <link>https://daidi06.github.io/didier_portfolio/fr/post/project-4/</link>
+      <pubDate>Wed, 12 Aug 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/fr/post/project-4/</guid>
+      <description>Nous allons mettre en œuvre une approche d&amp;rsquo;apprentissage non supervisé, semi-supervisé et supervisé pour construire notre application de prédiction de tags pour les questions postées sur le site web stackoverflow. Nous procédons au nettoyage des données, aux features engineering, à la modélisation de l&amp;rsquo;apprentissage non supervisé, à la modélisation supervisée et à la modélisation semi-supervisée. Nous construisons également une API client à l&amp;rsquo;aide de Flask qui peut être trouvée ici. Stack Overflow propose un outil d&amp;rsquo;exportation de données ici que nous utilisons pour obtenir les données nécessaires à la construction de l&amp;rsquo;application.</description>
+    </item>
+    
+    <item>
+      <title>Projet 1: Concevez une application au service de la santé publique</title>
+      <link>https://daidi06.github.io/didier_portfolio/fr/post/project-1/</link>
+      <pubDate>Thu, 09 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/fr/post/project-1/</guid>
+      <description>Nous appliquerons l&amp;rsquo;une des techniques du machine learning appelée apprentissage non supervisé pour regrouper les aliments en fonction de leurs informations nutritionnelles. Le jeu de données utilisé pour cette application provient de Open Food Fact. Nous procédons au nettoyage des données, aux features engineering, à la réduction de dimension et à la segmentation des données.
+  </description>
+    </item>
+    
+    <item>
+      <title>Projet 3: Segmentez des clients d&#39;un site e-commerce</title>
+      <link>https://daidi06.github.io/didier_portfolio/fr/post/project-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/fr/post/project-3/</guid>
+      <description>Nous utilisons l&amp;rsquo;apprentissage non supervisé pour regrouper les clients d&amp;rsquo;une entreprise de e-commerce. Nous procédons au nettoyage des données, aux features engineering et à la segmentation des données. Nous utilisons les algorithmes KMean, Minibatchkmeans, Agglomerative clustering, Spectral clustering et Density-based Clustering (DBSCAN) pour atteindre le meilleur modèle de clustering. Le jeu de données utilisé pour cette application peut être trouver ici.
+  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://daidi06.github.io/didier_portfolio/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/fr/contact/</guid>
+      <description>Votre nomAdresse e-mailUne adresse e-mail est requise.MessageSuivez-moi sur ces plateformes de médias sociaux.
+   Lien vers la plateforme      Twitter: https://twitter.com/ildidier   LinkedIn: https://www.linkedin.com/in/didier-ilboudo/   GitHub: https://github.com/daidi06    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Didier Ilboudo</title>
+    <link>https://daidi06.github.io/didier_portfolio/tags/scene/</link>
+    <description>Recent content in scene on Didier Ilboudo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Mar 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://daidi06.github.io/didier_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet 6: TITANIC - MACHINE LEARNING FROM DISASTER</title>
+      <link>https://daidi06.github.io/didier_portfolio/post/project-6/</link>
+      <pubDate>Sun, 14 Mar 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/post/project-6/</guid>
+      <description>In this project, we will participate in a competition on Kaggle. We will go through the whole process of creating a machine learning model on the famous Titanic dataset. The dataset used for this application comes from Kaggle. We are comparing 9 machine learning algorithmes to reach the best prediction model.
+  </description>
+    </item>
+    
+    <item>
+      <title>Project 5: Classify images using Deep Learning algorithms</title>
+      <link>https://daidi06.github.io/didier_portfolio/post/project-5/</link>
+      <pubDate>Tue, 13 Oct 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/post/project-5/</guid>
+      <description>We are building a model for doing breed classification of a dog by just looking into its image and tracking the accuracy this model might be able to achieve. With modern machine learning frameworks like TensorFlow and pre-trained models for image recognition the task could be solved with a pretty good accuracy without applying too many efforts and spending too much time and resources. I am going to share the end-to-end process of building dog breed classifier using TensorFlow.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Anticipate the electricity consumption needs of buildings</title>
+      <link>https://daidi06.github.io/didier_portfolio/post/project-2/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/post/project-2/</guid>
+      <description>We are implementing linear models, non linear models and ensemble learning to reach the best model for our machine learning application. We are going through data cleaning, features engineering and data modeling. The dataset used for this application comes from City of seattle building energy benchmarking.
+  </description>
+    </item>
+    
+    <item>
+      <title>Project 4: Automatically tags questions on stackoverflow</title>
+      <link>https://daidi06.github.io/didier_portfolio/post/project-4/</link>
+      <pubDate>Wed, 12 Aug 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/post/project-4/</guid>
+      <description>We will implement an unsupervised, semi-supervised and supervised learning approach to build our tags prediction application for questions posted on stackoverflow website. We are going through data cleaning, features engineering, unsupervised learning modeling, supervised modeling and semi-supervised modeling. We are also building a client API using flask that could be found here. Stack Overflow offers a data export tool here that we are using to get data for building the application.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Design an application for public health</title>
+      <link>https://daidi06.github.io/didier_portfolio/post/project-1/</link>
+      <pubDate>Thu, 09 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/post/project-1/</guid>
+      <description>We are applying one of a machine learning technique called unsupervised Learning to cluster foods based on their nutritional information. The dataset used for this application comes from Open Food Fact. We are going through data cleaning, features engineering, dimensional reduction and data segmentation.
+  </description>
+    </item>
+    
+    <item>
+      <title>Project 3: Segment customers of an e-commerce site</title>
+      <link>https://daidi06.github.io/didier_portfolio/post/project-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://daidi06.github.io/didier_portfolio/post/project-3/</guid>
+      <description>We are using unsupervised Learning to cluster customers of an e-commerce company. We are going through data cleaning, features engineering and data segmentation. We are using KMean, Minibatchkmeans, Agglomerative clustering, Spectral clustering and Density-based Clustering (DBSCAN) to reach the best clustering model. The dataset used for this application comes from here.
+  </description>
+    </item>
+    
+  </channel>
+</rss>
