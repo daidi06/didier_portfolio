@@ -1,0 +1,49 @@
+title = "Notre-Dame de Paris"
+baseURL = "https://daidi06.github.io/didier_portfolio/"
+languageCode = "en-us"
+theme = "ananke"
+#themesDir = "../.."
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+canonifyURLs = true
+publishDir = "docs"
+
+[languages]
+  [languages.en]
+    title = "Didier Ilboudo"
+    weight = 1
+    contentDir = "content/en"
+  [languages.fr]
+    title = "Didier Ilboudo"
+    weight = 2
+    contentDir = "content/fr"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = "/images/Photo3.png"
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "	https://twitter.com/ildidier"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/daidi06"
+  gitlab = ""
+  linkedin = "	https://www.linkedin.com/in/didier-ilboudo/"
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
