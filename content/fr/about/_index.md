@@ -11,3 +11,4 @@ L'analyse de données et le machine learning sont mes passions. Je m'appelle Did
 Mon ambition est de travailler dans le secteur de la santé
 en tant que spécialiste de l'analyse des données de la santé et de machine learning. J'offre plus de plus de 7 ans d'expérience dans l'amélioration de la prise de décision en milieu professionnel.
 
+[Mon profil LinkedIn](https://www.linkedin.com/in/didier-ilboudo/)
