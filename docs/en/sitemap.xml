@@ -17,21 +17,6 @@
                 href="https://daidi06.github.io/didier_portfolio/"
                 />
   </url><url>
-    <loc>https://daidi06.github.io/didier_portfolio/post/project-6/</loc>
-    <lastmod>2021-03-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://daidi06.github.io/didier_portfolio/fr/post/project-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daidi06.github.io/didier_portfolio/post/project-6/"
-                />
-  </url><url>
     <loc>https://daidi06.github.io/didier_portfolio/tags/scene/</loc>
     <lastmod>2021-03-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -60,6 +45,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://daidi06.github.io/didier_portfolio/tags/"
+                />
+  </url><url>
+    <loc>https://daidi06.github.io/didier_portfolio/post/project-6/</loc>
+    <lastmod>2021-03-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://daidi06.github.io/didier_portfolio/fr/post/project-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daidi06.github.io/didier_portfolio/post/project-6/"
                 />
   </url><url>
     <loc>https://daidi06.github.io/didier_portfolio/post/project-5/</loc>
