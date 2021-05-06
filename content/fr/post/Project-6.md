@@ -3,7 +3,7 @@ date: 2021-03-14T11:25:05-04:00
 description: "Utiliser le Machine Learning pour créer un modèle qui prédit quels passagers ont survécu au naufrage du Titanic."
 featured_image: "/images/project6_img.png"
 tags: ["scene"]
-title: "Projet 6: Titanic - machine learning à partir d'un désastre"
+title: "Titanic - Machine Learning à partir d'un désastre"
 disable_share: false
 ---
 
